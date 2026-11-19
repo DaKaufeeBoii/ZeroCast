@@ -1,0 +1,8 @@
+[package]
+name = "zerocast-native"
+version = "0.1.0"
+edition = "2021"
+description = "Native ultra-low latency screen capture and UDP streaming engine"
+
+[dependencies]
+anyhow = "1.0"
